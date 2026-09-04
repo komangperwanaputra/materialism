@@ -1,0 +1,11 @@
+{
+  "name": "MATERIALISM",
+  "description": "MATERIALISM - Executive Personal Financial Management, Cash Flow & Debt Planning Operating System",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
